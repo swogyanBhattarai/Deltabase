@@ -1,0 +1,10 @@
+services:
+  app:
+    build: ./backend
+    ports:
+      - "8080:8080"
+    volumes:
+      - app-data:/data
+
+volumes:
+  app-data:

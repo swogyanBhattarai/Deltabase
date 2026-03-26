@@ -20,6 +20,26 @@ Deltabase is a collaborative file management platform. It lets you organize proj
 - Delete files you no longer need
 - Inspect what changed between file versions using the built-in diff viewer
 
+## Screenshots
+
+### User Profile
+<img src="screenshots/own-profile.png" width="800"/>
+
+### Project Management
+<img src="screenshots/project-manage.png" width="800"/>
+
+### Add User To Project
+<img src="screenshots/add-user-project.png" width="800"/>
+
+### File Diff
+<img src="screenshots/file-diff.png" width="800"/>
+
+### Project Search
+<img src="screenshots/project-search.png" width="800"/>
+
+### User Search
+<img src="screenshots/user-search.png" width="800"/>
+
 ## Getting started
 
 ### Prerequisites
